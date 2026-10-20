@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rksj",
+  "version": "0.1.0",
+  "description": "软考软件设计师过线系统",
+  "license": "MIT",
+  "keywords": ["aias"]
+}
