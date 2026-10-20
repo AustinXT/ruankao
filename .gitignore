@@ -33,3 +33,7 @@ __pycache__/
 *.pyc
 node_modules/
 .venv/
+
+# ── 真题原件：他人版权材料，仅本地，绝不入库（可由 resources/ 的 PDF 一条 42md 命令重建，索引见 vault/raw/README.md）──
+vault/raw/**
+!vault/raw/README.md
